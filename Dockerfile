@@ -1,7 +1,7 @@
 # Installing Java for TOMCAT
 FROM rhel7:latest
 
-MAINTAINER saikrishna.mandava@yahoo.com
+MAINTAINER boppanasrinivas@yahoo.com
 
 #Step 1: Install JDK 1.7
 
