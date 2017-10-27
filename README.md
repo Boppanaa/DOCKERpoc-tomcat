@@ -1,1 +1,1 @@
-# DOCKERpoc-tomcat
+# TomcatRHEL7
